@@ -1,0 +1,8 @@
+APPL   (Apple)
+GOOG   (Google)
+NTFX   (Netflix)
+NVDA   (NVIDIA)
+AA
+MSTF
+
+Reminder(ALL symbols should be In Capital Letters)
